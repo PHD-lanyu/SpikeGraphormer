@@ -42,11 +42,16 @@ This repository is built upon [NodeFormer](https://github.com/qitianwu/NodeForme
 # Citation
 If you find our codes useful, please cite our work. Thank you.
 ```bibtex
-@article{sun2024spikegraphormer,
-  title={SpikeGraphormer: A High-Performance Graph Transformer with Spiking Graph Attention},
-  author={Sun, Yundong and Zhu, Dongjie and Wang, Yansong and Tian, Zhaoshuo and Cao, Ning and O'Hared, Gregory},
-  journal={arXiv preprint arXiv:2403.15480},
-  year={2024}
+@article{SUN2026123828,
+title = {SpikeGraphormer: A high-performance graph transformer with spiking graph attention},
+journal = {Information Sciences},
+volume = {755},
+pages = {123828},
+year = {2026},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2026.123828},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025526007590},
+author = {Yundong Sun and Dongjie Zhu and Yansong Wang and Zhaoshuo Tian and Ning Cao and Gregory O’Hare},
 }
 ```
 Of course, you can also cite the paper of NodeFormer and Spike-driven Transformer.
